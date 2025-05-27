@@ -1,0 +1,28 @@
+fake-news-detector/
+│
+├── app.py                      # Flask web app
+├── train_model.py             # Script to train the ML model
+├── bert_model.py              # (Optional) BERT-based model version
+│
+├── /static/                   # Static files like CSS, JS, images
+│   └── style.css
+│
+├── /templates/                # HTML templates for Flask
+│   └── index.html
+│
+├── /models/                   # Saved models
+│   └── tfidf_vectorizer.pkl
+│   └── logistic_model.pkl
+│
+├── /notebooks/                # Jupyter notebooks for EDA or testing
+│   └── data_exploration.ipynb
+│
+├── /data/                     # Place dataset files here
+│   └── True.csv
+│   └── Fake.csv
+│
+├── /utils/                    # Helper scripts (e.g., preprocessing, visualization)
+│   └── text_cleaner.py
+│
+├── requirements.txt
+└── README.md
