@@ -1,10 +1,11 @@
+
 # Helper functions for text preprocessing
 # utils/text_cleaner.py
 import re
-from nltk.corpus import stopwords
+from nltk.corpus import stopwords as nltk_stopwords
 from nltk.stem.porter import PorterStemmer
 
-stop_words = set(stopwords.words("english"))
+stop_words = set(nltk_stopwords.words("english"))
 stemmer = PorterStemmer()
 
 def clean_text(text):
