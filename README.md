@@ -112,7 +112,7 @@ Baseline Model: **TF-IDF + Logistic Regression**
 
 ## 🤝 Contributions
 
-Pull requests are welcome! If you find a bug or want to suggest improvements, feel free to open an issue.
+Pull requests are welcome! If you find a bug or would like to suggest an improvement, please feel free to open an issue.
 
 ---
 
