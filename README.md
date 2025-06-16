@@ -124,5 +124,5 @@ This project is licensed under the MIT License.
 
 ## ✨ Author
 
-Built by [Your Name](https://github.com/yourusername) — passionate about machine learning and AI for good.
+Built by [Nihal473](https://github.com/Nihal473) — passionate about machine learning and AI for good.
 
